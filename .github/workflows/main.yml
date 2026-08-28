@@ -1,0 +1,78 @@
+name: Berlin Rent Radar
+
+on:
+  schedule:
+    # Elke 10 minuten. GitHub voert dit uit "zo snel mogelijk daarna" -
+    # in de praktijk komt het neer op elke 10 tot 25 minuten.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:        # knop om handmatig te starten
+
+permissions:
+  contents: write           # nodig om de status terug te schrijven
+
+concurrency:
+  group: rent-radar
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    env:
+      # --- geheimen (staan in Settings > Secrets and variables > Actions) ---
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      # --- filters: pas deze gerust hier aan ---
+      MAX_KALT: "1400"          # Nettokaltmiete
+      MAX_WARM: "1400"          # Gesamtmiete incl. Nebenkosten
+      MIN_SIZE_M2: "35"
+      MAX_SIZE_M2: ""           # leeg = geen bovengrens
+      MIN_ROOMS: "1"
+      MAX_ROOMS: ""
+      ALLOW_WBS: "false"        # op "true" zodra je in Berlijn ingeschreven bent
+      DISTRICTS: ""             # leeg = heel Berlijn. Anders: "Mitte,Neukölln,Pankow"
+      EXCLUDE_DISTRICTS: ""
+      TITLE_BLOCKLIST: "Tausch,Zwischenmiete,WG-Zimmer,möbliert,moebliert"
+      UNKNOWN_NK_FACTOR: "1.30"
+      PAGES: "4"                # 4 pagina's = ~40 nieuwste aanbiedingen per ronde
+      SEED_PAGES: "30"          # alleen gebruikt bij de allereerste ronde
+      MAX_ALERTS: "20"
+      STATE_FILE: "state/seen.txt"
+
+    steps:
+      - name: Repo ophalen
+        uses: actions/checkout@v4
+
+      - name: Python installeren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Afhankelijkheden installeren
+        run: pip install --quiet requests beautifulsoup4
+
+      - name: Huurmarkt scannen
+        run: python radar.py
+
+      - name: Status terugschrijven
+        run: |
+          if [ -z "$(git status --porcelain state/)" ]; then
+            echo "Geen wijzigingen in de status."
+            exit 0
+          fi
+          git config user.name  "rent-radar[bot]"
+          git config user.email "rent-radar@users.noreply.github.com"
+          git add state/
+          git commit -m "status: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do
+            if git push; then
+              echo "Status gepusht."
+              exit 0
+            fi
+            echo "Push mislukt (poging $i), opnieuw proberen..."
+            git pull --rebase --autostash || true
+            sleep 5
+          done
+          echo "::warning::Status kon niet gepusht worden."
