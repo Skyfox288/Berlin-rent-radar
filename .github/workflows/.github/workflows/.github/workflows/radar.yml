@@ -1,11 +1,11 @@
 name: Berlin Rent Radar
 
 on:
+   repository_dispatch:
+    types: [scan]
+  workflow_dispatch:
   schedule:
-    # Elke 10 minuten. GitHub voert dit uit "zo snel mogelijk daarna" -
-    # in de praktijk komt het neer op elke 10 tot 25 minuten.
-    - cron: "*/10 * * * *"
-  workflow_dispatch:        # knop om handmatig te starten
+    - cron: "17,47 * * * *"
 
 permissions:
   contents: write           # nodig om de status terug te schrijven
