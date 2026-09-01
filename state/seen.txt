@@ -114,6 +114,7 @@ https://www.degewo.de/de/properties/W1400-51805-0120-0702.html
 https://www.degewo.de/de/properties/W1400-51907-0203-0806.html
 https://www.degewo.de/de/properties/W1400-60259-0090-0501.html
 https://www.degewo.de/de/properties/W1400-60259-0150-0102.html
+https://www.degewo.de/de/properties/W1500-00759-0081-0301.html
 https://www.degewo.de/de/properties/W1500-31703-0046-0701.html
 https://www.gesobau.de/?immo_ref=10-00798-00005-0054-57435e8c-32ec-4bfe-87de-c0b972d41bb4
 https://www.gesobau.de/?immo_ref=10-00855-00001-0027-cacf9bee-3319-48d9-88f8-feb8910dd4d2
@@ -135,6 +136,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0702-01
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0901-0210
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-1501-0458
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01033-0202-0042
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-0202-0166
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-0401-0195
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-0401-0206
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-0801-0317
@@ -157,6 +159,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01508-0101-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01509-0201-0063
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01511-0101-0005
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01602-1003-0346
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01734-0103-0072
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01833-0106-0098
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01904-0101-0015
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01929-0402-0164
@@ -184,6 +187,8 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0102-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0102-0068
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-75904-0101-0045
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-76133-0101-0001
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-76301-0101-0009
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77128-0101-0011
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77710-0102-0041
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77711-0101-0033
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20259-9.html?t=ibw
@@ -228,6 +233,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20704-93.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-24012-62.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-24032-136.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-24035-55.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-24049-276.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-24052-29.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-24202-13.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-25104-58.html?t=ibw
