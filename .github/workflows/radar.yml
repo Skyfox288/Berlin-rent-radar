@@ -1,8 +1,8 @@
 name: Berlin Rent Radar
 
 on:
-   repository_dispatch:
-   types: [scan]
+repository_dispatch:
+types: [scan]
   workflow_dispatch:
   schedule:
     - cron: "17,47 * * * *"
