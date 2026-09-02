@@ -96,7 +96,10 @@ https://www.degewo.de/de/properties/W1300-70901-0017-0101.html
 https://www.degewo.de/de/properties/W1300-71805-0015-0103.html
 https://www.degewo.de/de/properties/W1400-06080-0185-0304.html
 https://www.degewo.de/de/properties/W1400-06080-0224-0202.html
+https://www.degewo.de/de/properties/W1400-40122-0730-0902.html
+https://www.degewo.de/de/properties/W1400-40131-0590-0803.html
 https://www.degewo.de/de/properties/W1400-40137-0580-0503.html
+https://www.degewo.de/de/properties/W1400-40137-1260-0301.html
 https://www.degewo.de/de/properties/W1400-40373-0800-1004.html
 https://www.degewo.de/de/properties/W1400-40375-0240-0701.html
 https://www.degewo.de/de/properties/W1400-40726-0510-0601.html
@@ -117,6 +120,7 @@ https://www.gesobau.de/?immo_ref=10-03243-00016-1277-599df9df-97f7-4e28-bcda-e7d
 https://www.gesobau.de/?immo_ref=10-03494-00017-1362-9626679d-a2aa-4ac4-9239-6ec50f66ed63
 https://www.gesobau.de/?immo_ref=10-04203-00100-0005-07119d99-e56f-46ec-a9c3-3ba7f9fb47fe
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01004-0603-0381
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01010-0608-0327
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01031-0501-0097
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0501-0109
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0501-0112
@@ -148,11 +152,13 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01511-0101-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01734-0103-0072
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01904-0101-0015
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01929-0402-0164
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02551-0101-0017
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0103-0153
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0201-0254
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0203-0360
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0204-0456
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0208-0657
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00157-0305-0078
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00162-0105-0050
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00163-0101-0037
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/6025-32592-0101-0031
