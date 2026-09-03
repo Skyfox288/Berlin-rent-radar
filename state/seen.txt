@@ -183,6 +183,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0203-03
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0204-0456
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02571-0208-0657
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00157-0305-0078
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00162-0101-0007
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00162-0105-0050
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00163-0101-0037
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00267-0101-0010
@@ -249,6 +250,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20603-7.html?t
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20778-120.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-23117-24.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-23129-14.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-23134-1.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-24035-55.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9991.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9992.html?t=ibw
@@ -310,6 +312,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-31130-138.html
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-31130-159.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1940-33420-101.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1940-33420-245.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1940-33420-269.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33559-188.html?t=ibw
 https://www.inberlinwohnen.de/stichwort-wbs
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-1220/1/9
