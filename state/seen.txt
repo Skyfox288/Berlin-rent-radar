@@ -73,6 +73,7 @@ https://www.berlinovo.de/de/wohnung-id/1230-2389-1001
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1002
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1003
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1004
+https://www.berlinovo.de/de/wohnung-id/1230-2389-1005
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1232
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1419
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1516
@@ -427,6 +428,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74601-0105-01
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0101-0020
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0102-0061
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0102-0068
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-75922-0104-0026
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-76107-0101-0007
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-76301-0101-0007
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-76301-0101-0009
