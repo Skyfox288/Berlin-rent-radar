@@ -4,6 +4,7 @@ https://stadtundland.de/wohnungssuche/1001%2F0024%2F00247
 https://stadtundland.de/wohnungssuche/1001%2F0032%2F00127
 https://stadtundland.de/wohnungssuche/1001%2F0110%2F00010
 https://stadtundland.de/wohnungssuche/1001%2F0194%2F00049
+https://stadtundland.de/wohnungssuche/1001%2F0206%2F00037
 https://stadtundland.de/wohnungssuche/1001%2F0251%2F00228
 https://stadtundland.de/wohnungssuche/1001%2F0299%2F00542
 https://stadtundland.de/wohnungssuche/1001%2F0299%2F00585
@@ -74,6 +75,7 @@ https://www.berlinovo.de/de/wohnung-id/1230-2389-1003
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1004
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1232
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1419
+https://www.berlinovo.de/de/wohnung-id/1230-2389-1516
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1527
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1529
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1531
@@ -99,6 +101,7 @@ https://www.degewo.de/de/properties/W1100-00623-0052-0052.html
 https://www.degewo.de/de/properties/W1100-02520-0070-0070.html
 https://www.degewo.de/de/properties/W1100-02530-0009-0106.html
 https://www.degewo.de/de/properties/W1100-02530-0032-0301.html
+https://www.degewo.de/de/properties/W1100-02531-0039-0203.html
 https://www.degewo.de/de/properties/W1100-02531-0077-0103.html
 https://www.degewo.de/de/properties/W1100-02531-0102-0304.html
 https://www.degewo.de/de/properties/W1100-02531-0103-0101.html
