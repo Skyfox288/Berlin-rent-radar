@@ -6,6 +6,7 @@ https://stadtundland.de/wohnungssuche/1001%2F0110%2F00010
 https://stadtundland.de/wohnungssuche/1001%2F0194%2F00049
 https://stadtundland.de/wohnungssuche/1001%2F0206%2F00037
 https://stadtundland.de/wohnungssuche/1001%2F0251%2F00228
+https://stadtundland.de/wohnungssuche/1001%2F0251%2F00246
 https://stadtundland.de/wohnungssuche/1001%2F0299%2F00542
 https://stadtundland.de/wohnungssuche/1001%2F0299%2F00585
 https://stadtundland.de/wohnungssuche/1001%2F0317%2F00066
@@ -85,6 +86,7 @@ https://www.berlinovo.de/de/wohnung-id/1230-2389-1015
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1018
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1021
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1022
+https://www.berlinovo.de/de/wohnung-id/1230-2389-1030
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1127
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1232
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1327
@@ -533,6 +535,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20541-44.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20544-155.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20545-191.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20549-165.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-3.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-86.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-88.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-9994.html?t=ibw
