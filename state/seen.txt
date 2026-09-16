@@ -61,6 +61,9 @@ https://stadtundland.de/wohnungssuche/1001%2F6196%2F00003
 https://stadtundland.de/wohnungssuche/1001%2F6218%2F00029
 https://stadtundland.de/wohnungssuche/1001%2F6218%2F00071
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00009
+https://stadtundland.de/wohnungssuche/1001%2F6399%2F00013
+https://stadtundland.de/wohnungssuche/1001%2F6399%2F00021
+https://stadtundland.de/wohnungssuche/1001%2F6399%2F00022
 https://stadtundland.de/wohnungssuche/1050%2F5230%2F00120
 https://stadtundland.de/wohnungssuche/1050%2F8125%2F00011
 https://stadtundland.de/wohnungssuche/1050%2F8222%2F00145
@@ -102,6 +105,7 @@ https://www.berlinovo.de/de/wohnung-id/1230-2389-1122
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1125
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1126
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1127
+https://www.berlinovo.de/de/wohnung-id/1230-2389-1128
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1206
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1227
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1232
