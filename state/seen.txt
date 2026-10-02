@@ -145,6 +145,7 @@ https://stadtundland.de/wohnungssuche/1050%2F5232%2F00106
 https://stadtundland.de/wohnungssuche/1050%2F5232%2F00150
 https://stadtundland.de/wohnungssuche/1050%2F8105%2F00007
 https://stadtundland.de/wohnungssuche/1050%2F8106%2F00062
+https://stadtundland.de/wohnungssuche/1050%2F8106%2F00243
 https://stadtundland.de/wohnungssuche/1050%2F8113%2F00072
 https://stadtundland.de/wohnungssuche/1050%2F8125%2F00011
 https://stadtundland.de/wohnungssuche/1050%2F8126%2F00254
@@ -922,6 +923,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20101-161.html
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20110-336.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20113-7.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20114-129.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20114-25.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20117-148.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20117-153.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20118-51.html?t=ibw
