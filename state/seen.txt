@@ -753,6 +753,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01509-0101-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01509-0201-0063
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01509-0201-0071
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01511-0101-0005
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01602-0903-0328
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01602-1405-0558
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01602-1601-0608
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01603-0301-0155
@@ -895,6 +896,8 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70701-0702-01
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70702-0101-0021
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70702-0101-0050
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70702-0101-0093
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70805-0101-0019
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70805-0102-0047
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70806-0101-0032
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-71208-0101-0001
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-71700-0101-0048
