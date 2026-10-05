@@ -1490,6 +1490,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-5562/1/15
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-7515/3/68
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-7515/4/85
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-910/1/11
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7901/4/93
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7903/14/194
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7903/18/275
@@ -1500,4 +1501,5 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7903/32/502
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7903/35/530
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7903/39/581
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7903/45/673
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=60-7903/48/698
