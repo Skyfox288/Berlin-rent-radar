@@ -528,6 +528,7 @@ https://www.degewo.de/de/properties/W1400-40032-0290-0801.html
 https://www.degewo.de/de/properties/W1400-40033-1310-1706.html
 https://www.degewo.de/de/properties/W1400-40035-1190-1703.html
 https://www.degewo.de/de/properties/W1400-40062-1210-1602.html
+https://www.degewo.de/de/properties/W1400-40088-0780-1104.html
 https://www.degewo.de/de/properties/W1400-40088-1320-1802.html
 https://www.degewo.de/de/properties/W1400-40091-0790-0101.html
 https://www.degewo.de/de/properties/W1400-40092-0540-0403.html
@@ -565,6 +566,7 @@ https://www.degewo.de/de/properties/W1400-40373-0800-1004.html
 https://www.degewo.de/de/properties/W1400-40375-0240-0701.html
 https://www.degewo.de/de/properties/W1400-40381-0090-0109.html
 https://www.degewo.de/de/properties/W1400-40381-0490-0406.html
+https://www.degewo.de/de/properties/W1400-40414-0010-0101.html
 https://www.degewo.de/de/properties/W1400-40464-0160-0302.html
 https://www.degewo.de/de/properties/W1400-40572-0010-0101.html
 https://www.degewo.de/de/properties/W1400-40589-0380-0605.html
@@ -977,6 +979,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-78201-0101-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-79011-0101-0005
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-79013-0201-0009
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-79016-0101-0009
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-79017-0101-0004
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-79102-0102-0053
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-79120-0103-0022
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-79130-0104-0030
@@ -1056,11 +1059,13 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-25.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-27.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-28.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-3.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-37.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-38.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-4.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-42.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-43.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-46.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-47.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-70.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-71.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20551-80.html?t=ibw
@@ -1310,6 +1315,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-9981.htm
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-9990.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-9991.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14559-9992.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14560-95.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14563-198.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14563-213.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14563-223.html?t=ibw
