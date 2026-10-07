@@ -553,6 +553,7 @@ https://www.degewo.de/de/properties/W1400-06080-0130-0402.html
 https://www.degewo.de/de/properties/W1400-06080-0171-0502.html
 https://www.degewo.de/de/properties/W1400-06080-0185-0304.html
 https://www.degewo.de/de/properties/W1400-06080-0224-0202.html
+https://www.degewo.de/de/properties/W1400-06080-0240-0103.html
 https://www.degewo.de/de/properties/W1400-06080-0262-0203.html
 https://www.degewo.de/de/properties/W1400-40010-0420-0402.html
 https://www.degewo.de/de/properties/W1400-40027-0200-0504.html
@@ -756,6 +757,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0901-02
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-0902-0239
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-1101-0270
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-1203-0321
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-1203-0322
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-1501-0411
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-1501-0423
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01032-1501-0443
