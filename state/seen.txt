@@ -557,6 +557,7 @@ https://www.degewo.de/de/properties/W1300-71001-0413-0101.html
 https://www.degewo.de/de/properties/W1300-71802-0019-0101.html
 https://www.degewo.de/de/properties/W1300-71802-0024-0203.html
 https://www.degewo.de/de/properties/W1300-71805-0015-0103.html
+https://www.degewo.de/de/properties/W1300-71805-0018-0203.html
 https://www.degewo.de/de/properties/W1300-72602-0001-0101.html
 https://www.degewo.de/de/properties/W1300-72602-0002-0102.html
 https://www.degewo.de/de/properties/W1400-06080-0115-0301.html
@@ -1340,6 +1341,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27697-9997.htm
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27697-9998.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27697-9999.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-10003-22.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-10006-25.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-10105-11.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-10262-9.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-10319-25.html?t=ibw
@@ -1410,6 +1412,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-13595-42.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-13621-12.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-13621-81.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-13630-209.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14003-132.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14007-130.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14008-5.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14015-3.html?t=ibw
@@ -1532,6 +1535,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33555-112.html
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33556-227.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33557-130.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33559-188.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33560-121.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33560-36.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33561-36.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33561-41.html?t=ibw
