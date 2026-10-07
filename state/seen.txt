@@ -59,6 +59,7 @@ https://stadtundland.de/wohnungssuche/1001%2F5125%2F00048
 https://stadtundland.de/wohnungssuche/1001%2F5127%2F00062
 https://stadtundland.de/wohnungssuche/1001%2F5132%2F00034
 https://stadtundland.de/wohnungssuche/1001%2F5134%2F00004
+https://stadtundland.de/wohnungssuche/1001%2F5134%2F00240
 https://stadtundland.de/wohnungssuche/1001%2F5134%2F00318
 https://stadtundland.de/wohnungssuche/1001%2F5141%2F00099
 https://stadtundland.de/wohnungssuche/1001%2F5141%2F20942
@@ -1566,6 +1567,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-517516/1/25
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518503/12/211
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518503/23/537
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518503/7/121
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518504/11/184
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518504/14/346
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518504/17/370
