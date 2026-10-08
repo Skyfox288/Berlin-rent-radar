@@ -201,10 +201,13 @@ https://www.berlinovo.de/de/wohnung-id/1100-2501-4
 https://www.berlinovo.de/de/wohnung-id/1100-2501-59
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1003
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1309
+https://www.berlinovo.de/de/wohnung-id/1100-2505-1413
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1414
+https://www.berlinovo.de/de/wohnung-id/1100-2505-1415
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1416
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1501
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1503
+https://www.berlinovo.de/de/wohnung-id/1100-2505-1504
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1505
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1506
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1507
@@ -214,6 +217,7 @@ https://www.berlinovo.de/de/wohnung-id/1100-2505-1511
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1512
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1513
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1514
+https://www.berlinovo.de/de/wohnung-id/1100-2505-1515
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1516
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1517
 https://www.berlinovo.de/de/wohnung-id/1230-2388-3004
@@ -331,6 +335,7 @@ https://www.degewo.de/de/properties/W1100-02533-0008-0101.html
 https://www.degewo.de/de/properties/W1100-02533-0036-0102.html
 https://www.degewo.de/de/properties/W1100-02533-0044-0202.html
 https://www.degewo.de/de/properties/W1100-02533-0060-0201.html
+https://www.degewo.de/de/properties/W1100-11902-0045-0404.html
 https://www.degewo.de/de/properties/W1100-11902-0158-0204.html
 https://www.degewo.de/de/properties/W1100-12015-0002-0202.html
 https://www.degewo.de/de/properties/W1100-12015-0009-0302.html
@@ -644,6 +649,7 @@ https://www.degewo.de/de/properties/W1400-40381-0090-0109.html
 https://www.degewo.de/de/properties/W1400-40381-0490-0406.html
 https://www.degewo.de/de/properties/W1400-40388-0360-0501.html
 https://www.degewo.de/de/properties/W1400-40414-0010-0101.html
+https://www.degewo.de/de/properties/W1400-40464-0060-0302.html
 https://www.degewo.de/de/properties/W1400-40464-0160-0302.html
 https://www.degewo.de/de/properties/W1400-40572-0010-0101.html
 https://www.degewo.de/de/properties/W1400-40589-0380-0605.html
@@ -896,6 +902,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01608-0201-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01609-0503-0181
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01609-1003-0364
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01609-1202-0446
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01609-1801-0665
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01610-0301-0183
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01610-0301-0184
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01611-0102-0027
