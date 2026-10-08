@@ -200,6 +200,7 @@ https://www.berlinovo.de/de/wohnung-id/1100-2501-147
 https://www.berlinovo.de/de/wohnung-id/1100-2501-4
 https://www.berlinovo.de/de/wohnung-id/1100-2501-59
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1003
+https://www.berlinovo.de/de/wohnung-id/1100-2505-1213
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1309
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1413
 https://www.berlinovo.de/de/wohnung-id/1100-2505-1414
@@ -256,6 +257,7 @@ https://www.berlinovo.de/de/wohnung-id/1230-2389-1114
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1115
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1116
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1117
+https://www.berlinovo.de/de/wohnung-id/1230-2389-1119
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1121
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1122
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1124
@@ -335,6 +337,7 @@ https://www.degewo.de/de/properties/W1100-02533-0008-0101.html
 https://www.degewo.de/de/properties/W1100-02533-0036-0102.html
 https://www.degewo.de/de/properties/W1100-02533-0044-0202.html
 https://www.degewo.de/de/properties/W1100-02533-0060-0201.html
+https://www.degewo.de/de/properties/W1100-11902-0005-0105.html
 https://www.degewo.de/de/properties/W1100-11902-0045-0404.html
 https://www.degewo.de/de/properties/W1100-11902-0158-0204.html
 https://www.degewo.de/de/properties/W1100-12015-0002-0202.html
@@ -1328,6 +1331,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9994.htm
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9995.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26767-26.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26815-104.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26815-74.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26815-76.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27657-204.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-27664-308.html?t=ibw
@@ -1567,6 +1571,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33549-35.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33549-77.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33551-244.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33551-57.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33551-78.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33555-104.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33555-112.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1950-33556-227.html?t=ibw
