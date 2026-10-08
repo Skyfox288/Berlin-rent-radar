@@ -255,6 +255,7 @@ https://www.berlinovo.de/de/wohnung-id/1230-2389-1221
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1222
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1227
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1232
+https://www.berlinovo.de/de/wohnung-id/1230-2389-1316
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1327
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1406
 https://www.berlinovo.de/de/wohnung-id/1230-2389-1417
@@ -564,6 +565,7 @@ https://www.degewo.de/de/properties/W1300-72602-0001-0101.html
 https://www.degewo.de/de/properties/W1300-72602-0002-0102.html
 https://www.degewo.de/de/properties/W1400-06080-0115-0301.html
 https://www.degewo.de/de/properties/W1400-06080-0130-0402.html
+https://www.degewo.de/de/properties/W1400-06080-0162-0202.html
 https://www.degewo.de/de/properties/W1400-06080-0171-0502.html
 https://www.degewo.de/de/properties/W1400-06080-0185-0304.html
 https://www.degewo.de/de/properties/W1400-06080-0224-0202.html
