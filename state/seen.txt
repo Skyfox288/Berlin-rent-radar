@@ -163,6 +163,7 @@ https://stadtundland.de/wohnungssuche/1001%2F6399%2F00027
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00030
 https://stadtundland.de/wohnungssuche/1001%2F6775%2F00137
 https://stadtundland.de/wohnungssuche/1050%2F5148%2F00231
+https://stadtundland.de/wohnungssuche/1050%2F5160%2F00216
 https://stadtundland.de/wohnungssuche/1050%2F5177%2F00084
 https://stadtundland.de/wohnungssuche/1050%2F5177%2F00089
 https://stadtundland.de/wohnungssuche/1050%2F5230%2F00120
@@ -1057,6 +1058,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00190-0101-01
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00190-0103-0053
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00190-0104-0031
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00191-0102-0108
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00217-0103-0021
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00254-0105-0082
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00262-0101-0064
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00262-0203-0084
