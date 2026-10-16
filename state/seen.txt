@@ -416,6 +416,7 @@ https://www.degewo.de/de/properties/W1100-41908-0413-0302.html
 https://www.degewo.de/de/properties/W1100-41908-0416-0201.html
 https://www.degewo.de/de/properties/W1100-41908-0421-0102.html
 https://www.degewo.de/de/properties/W1100-41908-0422-0201.html
+https://www.degewo.de/de/properties/W1100-42014-0086-0102.html
 https://www.degewo.de/de/properties/W1100-42014-0155-0105.html
 https://www.degewo.de/de/properties/W1100-42014-0159-0204.html
 https://www.degewo.de/de/properties/W1100-42014-0178-0201.html
@@ -1211,6 +1212,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00264-0109-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00266-0101-0147
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00267-0101-0010
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00269-0101-0083
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00277-0103-0162
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00277-0106-0168
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00277-0110-0115
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00307-0102-0021
@@ -1937,6 +1939,8 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-120282/2/34
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220727/1/110
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220905/1/102
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-410403/1/20
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-410403/4/93
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-517516/1/25
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-517516/4/135
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-518503/12/211
