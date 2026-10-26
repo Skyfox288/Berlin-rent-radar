@@ -1262,6 +1262,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01927-0201-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01927-0201-0100
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01929-0402-0164
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01929-0502-0192
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0101-0001
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0101-0010
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0102-0039
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01933-0114-0220
@@ -2248,6 +2249,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3107/1/40
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3109/1/129
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3109/2/155
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-311/4/93
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3304/3/117
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3304/4/168
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3337/3/118
