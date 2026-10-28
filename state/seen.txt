@@ -191,6 +191,7 @@ https://stadtundland.de/wohnungssuche/1001%2F5276%2F00027
 https://stadtundland.de/wohnungssuche/1001%2F5276%2F00028
 https://stadtundland.de/wohnungssuche/1001%2F5276%2F00029
 https://stadtundland.de/wohnungssuche/1001%2F5276%2F00031
+https://stadtundland.de/wohnungssuche/1001%2F5276%2F00032
 https://stadtundland.de/wohnungssuche/1001%2F5276%2F00033
 https://stadtundland.de/wohnungssuche/1001%2F5276%2F00034
 https://stadtundland.de/wohnungssuche/1001%2F5276%2F00036
@@ -997,6 +998,7 @@ https://www.degewo.de/de/properties/W1500-00794-0050-0601.html
 https://www.degewo.de/de/properties/W1500-00807-0081-0501.html
 https://www.degewo.de/de/properties/W1500-00807-0097-0101.html
 https://www.degewo.de/de/properties/W1500-00928-0014-0302.html
+https://www.degewo.de/de/properties/W1500-00930-0004-0301.html
 https://www.degewo.de/de/properties/W1500-00968-0012-0601.html
 https://www.degewo.de/de/properties/W1500-00985-0015-8122.html
 https://www.degewo.de/de/properties/W1500-00985-0018-8141.html
@@ -2005,6 +2007,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-13621-81.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-13630-209.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14002-106.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14003-132.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14005-6.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14007-130.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14008-5.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14015-3.html?t=ibw
