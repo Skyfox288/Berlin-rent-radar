@@ -235,6 +235,7 @@ https://stadtundland.de/wohnungssuche/1001%2F6399%2F00021
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00022
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00027
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00030
+https://stadtundland.de/wohnungssuche/1001%2F6471%2F00119
 https://stadtundland.de/wohnungssuche/1001%2F6562%2F00201
 https://stadtundland.de/wohnungssuche/1001%2F6563%2F00014
 https://stadtundland.de/wohnungssuche/1001%2F6563%2F00028
@@ -590,6 +591,7 @@ https://www.degewo.de/de/properties/W1140-00644-0271-2407.html
 https://www.degewo.de/de/properties/W1140-00644-0289-2601.html
 https://www.degewo.de/de/properties/W1140-00644-0302-2702.html
 https://www.degewo.de/de/properties/W1140-00644-0303-2705.html
+https://www.degewo.de/de/properties/W1140-00647-0006-0202.html
 https://www.degewo.de/de/properties/W1140-00647-0048-0102.html
 https://www.degewo.de/de/properties/W1140-00648-0085-0205.html
 https://www.degewo.de/de/properties/W1140-00648-0190-0704.html
@@ -1116,6 +1118,7 @@ https://www.gesobau.de/?immo_ref=10-03494-00017-1362-9626679d-a2aa-4ac4-9239-6ec
 https://www.gesobau.de/?immo_ref=10-04203-00100-0005-07119d99-e56f-46ec-a9c3-3ba7f9fb47fe
 https://www.gesobau.de/?immo_ref=17-07222-00013-0102-384aaed3-80b6-4d62-83c1-d12964c06e43
 https://www.gesobau.de/?immo_ref=17-07323-00025-0215-467ac37a-6f15-4acb-9a72-553a3e5f5f9e
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01002-0109-0067
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01002-0212-0199
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01004-0207-0127
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01004-0302-0155
