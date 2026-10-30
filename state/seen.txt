@@ -905,6 +905,7 @@ https://www.degewo.de/de/properties/W1400-40122-0290-0801.html
 https://www.degewo.de/de/properties/W1400-40122-0730-0902.html
 https://www.degewo.de/de/properties/W1400-40122-0810-0103.html
 https://www.degewo.de/de/properties/W1400-40124-0480-0301.html
+https://www.degewo.de/de/properties/W1400-40124-0590-0504.html
 https://www.degewo.de/de/properties/W1400-40124-0760-1001.html
 https://www.degewo.de/de/properties/W1400-40125-0270-0903.html
 https://www.degewo.de/de/properties/W1400-40125-0590-0902.html
@@ -1107,6 +1108,7 @@ https://www.gesobau.de/?immo_ref=10-01266-00001-1005-5331b6ca-b301-4a73-a498-a05
 https://www.gesobau.de/?immo_ref=10-03001-00137-0557-da3c9fac-79d9-4ff2-9c0b-3c761cc7ea66
 https://www.gesobau.de/?immo_ref=10-03023-00110-0398-ac77903d-a8b7-4f6a-bf81-41240ab60486
 https://www.gesobau.de/?immo_ref=10-03034-00100-0003-671444d8-2d65-4953-be16-692a2ae04661
+https://www.gesobau.de/?immo_ref=10-03209-00001-1007-071eca23-4c4f-4495-b659-67af0f177ffe
 https://www.gesobau.de/?immo_ref=10-03209-00001-1008-8b1b9358-c6b7-4ad2-8949-1d82bfb2c159
 https://www.gesobau.de/?immo_ref=10-03209-00002-1014-8e323ed3-6009-4b6e-9ced-52d2c16f0c77
 https://www.gesobau.de/?immo_ref=10-03209-00002-1018-cb4b3103-30a8-4b7f-8d79-b652cbbce378
