@@ -228,6 +228,7 @@ https://stadtundland.de/wohnungssuche/1001%2F6217%2F00007
 https://stadtundland.de/wohnungssuche/1001%2F6218%2F00029
 https://stadtundland.de/wohnungssuche/1001%2F6218%2F00071
 https://stadtundland.de/wohnungssuche/1001%2F6233%2F00081
+https://stadtundland.de/wohnungssuche/1001%2F6234%2F00124
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00003
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00004
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00005
@@ -834,6 +835,7 @@ https://www.degewo.de/de/properties/W1300-65903-0045-0301.html
 https://www.degewo.de/de/properties/W1300-65905-0040-0102.html
 https://www.degewo.de/de/properties/W1300-66221-0020-0505.html
 https://www.degewo.de/de/properties/W1300-66221-0066-0304.html
+https://www.degewo.de/de/properties/W1300-66221-0092-0302.html
 https://www.degewo.de/de/properties/W1300-66221-0161-0503.html
 https://www.degewo.de/de/properties/W1300-66224-0062-0301.html
 https://www.degewo.de/de/properties/W1300-70106-0046-0601.html
@@ -1408,6 +1410,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02559-0606-02
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02559-0606-0238
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02559-0701-0287
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02562-0103-0161
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02562-0103-0197
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02562-0103-0224
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02563-0103-0076
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02563-0103-0096
