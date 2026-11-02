@@ -440,6 +440,7 @@ https://www.berlinovo.de/de/wohnung-id/3103-2310-121
 https://www.berlinovo.de/de/wohnung-id/3103-2313-8
 https://www.berlinovo.de/de/wohnung-id/3103-2314-215
 https://www.degewo.de/de/properties/W1100-00304-0014-0208.html
+https://www.degewo.de/de/properties/W1100-00432-0083-0202.html
 https://www.degewo.de/de/properties/W1100-00623-0002-0002.html
 https://www.degewo.de/de/properties/W1100-00623-0022-0022.html
 https://www.degewo.de/de/properties/W1100-00623-0044-0044.html
@@ -2250,6 +2251,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1901-33030-9.html?t
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1910-33140-114.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1910-33140-125.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1920-33205-4.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1921-33230-49.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1925-33258-16.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1926-33280-26.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1940-33410-142.html?t=ibw
