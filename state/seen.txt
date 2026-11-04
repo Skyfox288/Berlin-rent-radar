@@ -269,6 +269,7 @@ https://stadtundland.de/wohnungssuche/1001%2F6563%2F00014
 https://stadtundland.de/wohnungssuche/1001%2F6563%2F00028
 https://stadtundland.de/wohnungssuche/1001%2F6775%2F00137
 https://stadtundland.de/wohnungssuche/1050%2F5148%2F00231
+https://stadtundland.de/wohnungssuche/1050%2F5148%2F00512
 https://stadtundland.de/wohnungssuche/1050%2F5160%2F00106
 https://stadtundland.de/wohnungssuche/1050%2F5160%2F00148
 https://stadtundland.de/wohnungssuche/1050%2F5160%2F00216
@@ -713,6 +714,7 @@ https://www.degewo.de/de/properties/W1150-00247-0012-0012.html
 https://www.degewo.de/de/properties/W1150-00247-0120-0120.html
 https://www.degewo.de/de/properties/W1150-00247-0163-0163.html
 https://www.degewo.de/de/properties/W1150-00247-0168-0168.html
+https://www.degewo.de/de/properties/W1150-00268-0013-8222.html
 https://www.degewo.de/de/properties/W1150-00370-0037-0402.html
 https://www.degewo.de/de/properties/W1150-00370-0044-0202.html
 https://www.degewo.de/de/properties/W1150-00378-0079-0703.html
