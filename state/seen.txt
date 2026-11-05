@@ -454,6 +454,7 @@ https://www.berlinovo.de/de/wohnung-id/1814-2601-951
 https://www.berlinovo.de/de/wohnung-id/3016-2209-256
 https://www.berlinovo.de/de/wohnung-id/3023-2001-35
 https://www.berlinovo.de/de/wohnung-id/3038-2003-14
+https://www.berlinovo.de/de/wohnung-id/3038-2004-50
 https://www.berlinovo.de/de/wohnung-id/3038-2005-128
 https://www.berlinovo.de/de/wohnung-id/3038-2005-19
 https://www.berlinovo.de/de/wohnung-id/3038-2006-309
@@ -2687,9 +2688,11 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-310/7/307
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3107/1/13
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3107/1/40
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3108/1/15
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3109/1/129
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3109/2/155
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-311/4/93
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3110/2/288
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3304/3/117
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3304/4/168
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-3337/3/118
