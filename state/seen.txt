@@ -1747,6 +1747,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-73710-0203-01
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74601-0105-0122
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74601-0201-0147
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74601-0201-0168
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74601-0402-0369
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0101-0015
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0101-0020
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-74602-0102-0061
@@ -2548,6 +2549,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-2007/33/473
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-2007/38/552
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-2679/1/2
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-3340/5/70
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-3354/5/53
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-3818/4/71
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-4227/8/103
@@ -2752,6 +2754,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-449/4/49
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-453/1/2
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-453/1/44
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-471/5/63
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-471/5/68
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-4817/2/20
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-4936/2/24
