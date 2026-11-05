@@ -452,6 +452,7 @@ https://www.berlinovo.de/de/wohnung-id/1814-2601-602
 https://www.berlinovo.de/de/wohnung-id/1814-2601-608
 https://www.berlinovo.de/de/wohnung-id/1814-2601-951
 https://www.berlinovo.de/de/wohnung-id/3016-2209-256
+https://www.berlinovo.de/de/wohnung-id/3023-2001-13
 https://www.berlinovo.de/de/wohnung-id/3023-2001-35
 https://www.berlinovo.de/de/wohnung-id/3038-2003-14
 https://www.berlinovo.de/de/wohnung-id/3038-2004-50
@@ -783,6 +784,7 @@ https://www.degewo.de/de/properties/W1300-02408-0012-0403.html
 https://www.degewo.de/de/properties/W1300-02409-0075-0401.html
 https://www.degewo.de/de/properties/W1300-02409-0140-0501.html
 https://www.degewo.de/de/properties/W1300-02411-0158-2104.html
+https://www.degewo.de/de/properties/W1300-02413-0076-0202.html
 https://www.degewo.de/de/properties/W1300-06078-0004-0104.html
 https://www.degewo.de/de/properties/W1300-06078-0010-0302.html
 https://www.degewo.de/de/properties/W1300-06078-0020-0201.html
@@ -1071,6 +1073,7 @@ https://www.degewo.de/de/properties/W1400-40602-0160-0602.html
 https://www.degewo.de/de/properties/W1400-40637-0310-0602.html
 https://www.degewo.de/de/properties/W1400-40663-0620-0907.html
 https://www.degewo.de/de/properties/W1400-40704-0190-0603.html
+https://www.degewo.de/de/properties/W1400-40723-0230-0601.html
 https://www.degewo.de/de/properties/W1400-40723-0250-0103.html
 https://www.degewo.de/de/properties/W1400-40726-0510-0601.html
 https://www.degewo.de/de/properties/W1400-40742-0150-0601.html
