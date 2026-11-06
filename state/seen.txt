@@ -1543,6 +1543,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02101-0509-02
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02117-0102-0013
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02129-0103-0035
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02129-0104-0054
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02129-0106-0086
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02131-0101-0043
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02131-0101-0061
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02131-0101-0074
@@ -1573,6 +1574,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02530-0103-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02531-0102-0013
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02533-0101-0002
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02533-0103-0034
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02539-0103-0020
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02541-0103-0021
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02543-0101-0004
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02546-0201-0022
@@ -1653,6 +1655,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00160-0202-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00162-0101-0007
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00162-0105-0050
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00163-0101-0037
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00168-0203-0072
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00168-0203-0077
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00168-0403-0177
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00168-0605-0296
