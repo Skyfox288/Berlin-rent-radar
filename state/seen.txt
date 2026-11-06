@@ -1374,6 +1374,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1401-05
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1401-0585
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1402-0623
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1402-0624
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01108-0803-0216
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01108-0902-0237
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01108-1003-0280
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01108-1101-0292
@@ -1582,6 +1583,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02559-0606-02
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02559-0701-0287
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02561-0101-0112
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02562-0103-0161
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02562-0103-0170
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02562-0103-0197
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02562-0103-0224
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-02563-0103-0076
@@ -2497,6 +2499,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-31130-7.html?t
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1901-33030-9.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1910-33140-114.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1910-33140-125.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1920-33205-16.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1920-33205-23.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1920-33205-4.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1921-33230-49.html?t=ibw
