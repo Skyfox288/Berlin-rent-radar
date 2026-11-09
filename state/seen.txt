@@ -1528,6 +1528,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01904-0201-01
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01905-0101-0045
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01909-0103-0031
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01920-0120-0424
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01920-0126-0556
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01921-0101-0036
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01921-0101-0039
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01922-0104-0157
@@ -1543,6 +1544,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01929-0502-01
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0101-0001
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0101-0010
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0102-0039
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0102-0059
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01931-0202-0160
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01933-0112-0183
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01933-0113-0194
@@ -2364,6 +2366,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12744-17.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12774-4.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12775-9.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12779-3.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12780-29.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12781-10.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12781-44.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12811-15.html?t=ibw
