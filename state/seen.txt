@@ -251,6 +251,7 @@ https://stadtundland.de/wohnungssuche/1001%2F6233%2F00081
 https://stadtundland.de/wohnungssuche/1001%2F6234%2F00124
 https://stadtundland.de/wohnungssuche/1001%2F6234%2F00173
 https://stadtundland.de/wohnungssuche/1001%2F6296%2F00038
+https://stadtundland.de/wohnungssuche/1001%2F6301%2F00037
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00003
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00004
 https://stadtundland.de/wohnungssuche/1001%2F6399%2F00005
@@ -281,6 +282,7 @@ https://stadtundland.de/wohnungssuche/1050%2F5148%2F00512
 https://stadtundland.de/wohnungssuche/1050%2F5160%2F00106
 https://stadtundland.de/wohnungssuche/1050%2F5160%2F00148
 https://stadtundland.de/wohnungssuche/1050%2F5160%2F00216
+https://stadtundland.de/wohnungssuche/1050%2F5165%2F00064
 https://stadtundland.de/wohnungssuche/1050%2F5177%2F00084
 https://stadtundland.de/wohnungssuche/1050%2F5177%2F00089
 https://stadtundland.de/wohnungssuche/1050%2F5230%2F00120
