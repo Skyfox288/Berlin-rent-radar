@@ -676,6 +676,7 @@ https://www.degewo.de/de/properties/W1140-00540-0018-0203.html
 https://www.degewo.de/de/properties/W1140-00540-0104-0101.html
 https://www.degewo.de/de/properties/W1140-00551-0053-0203.html
 https://www.degewo.de/de/properties/W1140-00551-0081-0303.html
+https://www.degewo.de/de/properties/W1140-00551-0196-0103.html
 https://www.degewo.de/de/properties/W1140-00552-0013-0301.html
 https://www.degewo.de/de/properties/W1140-00556-0012-0403.html
 https://www.degewo.de/de/properties/W1140-00558-0066-0403.html
@@ -1178,6 +1179,7 @@ https://www.degewo.de/de/properties/W1400-51709-0028-0704.html
 https://www.degewo.de/de/properties/W1400-51709-0125-0403.html
 https://www.degewo.de/de/properties/W1400-51805-0065-0202.html
 https://www.degewo.de/de/properties/W1400-51805-0120-0702.html
+https://www.degewo.de/de/properties/W1400-51806-0051-0204.html
 https://www.degewo.de/de/properties/W1400-51806-0123-0409.html
 https://www.degewo.de/de/properties/W1400-51806-0145-0704.html
 https://www.degewo.de/de/properties/W1400-51811-0028-0404.html
@@ -2839,6 +2841,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=42-7333/3/71
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-120171/1/508
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-120282/2/34
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220701/6/155
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220707/1/23
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220726/1/112
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220727/1/110
