@@ -38,6 +38,7 @@ https://stadtundland.de/wohnungssuche/1001%2F0201%2F00181
 https://stadtundland.de/wohnungssuche/1001%2F0203%2F00065
 https://stadtundland.de/wohnungssuche/1001%2F0205%2F00127
 https://stadtundland.de/wohnungssuche/1001%2F0205%2F00345
+https://stadtundland.de/wohnungssuche/1001%2F0205%2F00505
 https://stadtundland.de/wohnungssuche/1001%2F0206%2F00010
 https://stadtundland.de/wohnungssuche/1001%2F0206%2F00037
 https://stadtundland.de/wohnungssuche/1001%2F0207%2F00068
@@ -490,6 +491,7 @@ https://www.berlinovo.de/de/wohnung-id/3038-2004-50
 https://www.berlinovo.de/de/wohnung-id/3038-2005-128
 https://www.berlinovo.de/de/wohnung-id/3038-2005-19
 https://www.berlinovo.de/de/wohnung-id/3038-2006-309
+https://www.berlinovo.de/de/wohnung-id/3038-2007-18
 https://www.berlinovo.de/de/wohnung-id/3103-2310-121
 https://www.berlinovo.de/de/wohnung-id/3103-2313-8
 https://www.berlinovo.de/de/wohnung-id/3103-2314-215
@@ -806,6 +808,7 @@ https://www.degewo.de/de/properties/W1150-01421-0090-0201.html
 https://www.degewo.de/de/properties/W1150-01422-0034-0302.html
 https://www.degewo.de/de/properties/W1150-01422-0037-0201.html
 https://www.degewo.de/de/properties/W1150-01422-1019-0502.html
+https://www.degewo.de/de/properties/W1150-01423-0040-0401.html
 https://www.degewo.de/de/properties/W1150-01423-0111-0301.html
 https://www.degewo.de/de/properties/W1150-01423-0144-0401.html
 https://www.degewo.de/de/properties/W1150-01423-1007-0501.html
@@ -2564,6 +2567,9 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14016-29.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14017-23.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14536-9997.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14536-9999.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14538-102.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14538-104.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14538-110.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14538-124.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14539-150.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-14539-174.html?t=ibw
