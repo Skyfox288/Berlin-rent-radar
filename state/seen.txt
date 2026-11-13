@@ -59,6 +59,7 @@ https://stadtundland.de/wohnungssuche/1001%2F0251%2F00228
 https://stadtundland.de/wohnungssuche/1001%2F0251%2F00246
 https://stadtundland.de/wohnungssuche/1001%2F0251%2F00277
 https://stadtundland.de/wohnungssuche/1001%2F0299%2F00164
+https://stadtundland.de/wohnungssuche/1001%2F0299%2F00419
 https://stadtundland.de/wohnungssuche/1001%2F0299%2F00542
 https://stadtundland.de/wohnungssuche/1001%2F0299%2F00585
 https://stadtundland.de/wohnungssuche/1001%2F0317%2F00066
@@ -1483,6 +1484,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1303-05
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1303-0547
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1401-0557
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1401-0585
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1402-0621
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1402-0623
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01036-1402-0624
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01108-0702-0176
@@ -2508,6 +2510,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12128-65.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12153-41.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12154-24.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12155-7.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12156-41.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12211-25.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12220-106.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1771-12300-17.html?t=ibw
