@@ -261,6 +261,7 @@ https://stadtundland.de/wohnungssuche/1001%2F6147%2F00014
 https://stadtundland.de/wohnungssuche/1001%2F6166%2F00021
 https://stadtundland.de/wohnungssuche/1001%2F6168%2F00123
 https://stadtundland.de/wohnungssuche/1001%2F6168%2F00127
+https://stadtundland.de/wohnungssuche/1001%2F6168%2F00156
 https://stadtundland.de/wohnungssuche/1001%2F6194%2F00064
 https://stadtundland.de/wohnungssuche/1001%2F6196%2F00003
 https://stadtundland.de/wohnungssuche/1001%2F6216%2F00103
@@ -2423,8 +2424,11 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26318-270.html
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26321-22.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26450-45.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26450-89.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-105.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-75.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-76.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-87.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-90.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9991.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9992.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-26484-9993.html?t=ibw
