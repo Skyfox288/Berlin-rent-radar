@@ -895,6 +895,7 @@ https://www.degewo.de/de/properties/W1300-02413-0076-0202.html
 https://www.degewo.de/de/properties/W1300-06078-0004-0104.html
 https://www.degewo.de/de/properties/W1300-06078-0010-0302.html
 https://www.degewo.de/de/properties/W1300-06078-0020-0201.html
+https://www.degewo.de/de/properties/W1300-06079-0052-0102.html
 https://www.degewo.de/de/properties/W1300-06079-0066-0303.html
 https://www.degewo.de/de/properties/W1300-10302-0003-0103.html
 https://www.degewo.de/de/properties/W1300-10602-0005-0301.html
