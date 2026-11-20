@@ -1262,6 +1262,7 @@ https://www.degewo.de/de/properties/W1400-50017-0530-0401.html
 https://www.degewo.de/de/properties/W1400-50018-0590-0402.html
 https://www.degewo.de/de/properties/W1400-50035-0080-0302.html
 https://www.degewo.de/de/properties/W1400-50037-0120-0602.html
+https://www.degewo.de/de/properties/W1400-50038-0220-0303.html
 https://www.degewo.de/de/properties/W1400-50038-0260-0403.html
 https://www.degewo.de/de/properties/W1400-50038-0280-0502.html
 https://www.degewo.de/de/properties/W1400-50038-0480-0502.html
@@ -1294,6 +1295,7 @@ https://www.degewo.de/de/properties/W1400-60037-0190-0701.html
 https://www.degewo.de/de/properties/W1400-60040-0310-1102.html
 https://www.degewo.de/de/properties/W1400-60040-0630-1102.html
 https://www.degewo.de/de/properties/W1400-60042-0010-0101.html
+https://www.degewo.de/de/properties/W1400-60042-0050-0203.html
 https://www.degewo.de/de/properties/W1500-00701-0054-0501.html
 https://www.degewo.de/de/properties/W1500-00702-0011-0103.html
 https://www.degewo.de/de/properties/W1500-00702-0029-0401.html
