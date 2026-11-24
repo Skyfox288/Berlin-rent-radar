@@ -1173,6 +1173,7 @@ https://www.degewo.de/de/properties/W1400-40126-0320-1102.html
 https://www.degewo.de/de/properties/W1400-40128-0380-0202.html
 https://www.degewo.de/de/properties/W1400-40128-0480-0503.html
 https://www.degewo.de/de/properties/W1400-40131-0590-0803.html
+https://www.degewo.de/de/properties/W1400-40134-0950-1001.html
 https://www.degewo.de/de/properties/W1400-40134-0960-1002.html
 https://www.degewo.de/de/properties/W1400-40135-0160-0602.html
 https://www.degewo.de/de/properties/W1400-40137-0580-0503.html
@@ -3150,6 +3151,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-8522/6/148
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-8524/8/166
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-8525/3/69
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-8527/3/73
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-8529/1/6
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-8569/1/2
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=1-8569/1/7
@@ -3181,6 +3183,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-120282/2/34
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220701/6/155
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220707/1/23
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220713/2/31
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220726/1/112
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220727/1/110
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=50-220905/1/102
