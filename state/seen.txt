@@ -1445,6 +1445,7 @@ https://www.gesobau.de/?immo_ref=10-00922-00001-0082-59bbf87e-8d45-4d76-9996-539
 https://www.gesobau.de/?immo_ref=10-00922-00001-0087-14b4db14-cac8-4d17-b89b-e1471fbc7921
 https://www.gesobau.de/?immo_ref=10-00922-00001-0197-7293adf2-7f7d-41ac-927a-3bd719442542
 https://www.gesobau.de/?immo_ref=10-00922-00001-0197-df320820-f8e7-4aef-aacb-72c65ba4b38d
+https://www.gesobau.de/?immo_ref=10-00983-00005-1038-05425ec3-4742-4297-be09-5349d02ab4a2
 https://www.gesobau.de/?immo_ref=10-00983-00005-1089-292f5dcc-3cf2-4bdd-8528-83d0f0e55cd8
 https://www.gesobau.de/?immo_ref=10-00983-00005-1090-8aabe420-3a3e-4909-8c52-2a306159a03b
 https://www.gesobau.de/?immo_ref=10-00983-00005-1114-afd7b0e8-1c58-46f3-a752-a7420275445a
@@ -1752,6 +1753,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01833-0103-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01833-0105-0075
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01833-0106-0098
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01836-0102-0012
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01836-0202-0064
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01836-0204-0099
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01837-0104-0061
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/0100-01837-0104-0071
@@ -2196,6 +2198,7 @@ https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20258-53.html?
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20259-9.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20260-60.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20260-75.html?t=ibw
+https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20262-6.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20272-118.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20272-211.html?t=ibw
 https://www.howoge.de/wohnungen-gewerbe/wohnungssuche/detail/1770-20272-233.html?t=ibw
