@@ -37,6 +37,7 @@ https://stadtundland.de/wohnungssuche/1001%2F0194%2F00057
 https://stadtundland.de/wohnungssuche/1001%2F0201%2F00181
 https://stadtundland.de/wohnungssuche/1001%2F0203%2F00065
 https://stadtundland.de/wohnungssuche/1001%2F0205%2F00127
+https://stadtundland.de/wohnungssuche/1001%2F0205%2F00167
 https://stadtundland.de/wohnungssuche/1001%2F0205%2F00241
 https://stadtundland.de/wohnungssuche/1001%2F0205%2F00345
 https://stadtundland.de/wohnungssuche/1001%2F0205%2F00505
@@ -1449,6 +1450,7 @@ https://www.gesobau.de/?immo_ref=10-00904-00019-0272-696e3c01-3aba-4162-b73a-7f7
 https://www.gesobau.de/?immo_ref=10-00905-00013-0439-a52f4c34-90fb-4f81-bda3-747a8b15007d
 https://www.gesobau.de/?immo_ref=10-00905-00016-0588-8ca6392d-2518-43bd-90ab-ad3d74c021c2
 https://www.gesobau.de/?immo_ref=10-00907-00014-0301-8fa9fd2d-14e6-4fca-b1b8-cd1c3b182557
+https://www.gesobau.de/?immo_ref=10-00907-00015-0346-21a9fa61-7f52-4489-8036-740c723cefa3
 https://www.gesobau.de/?immo_ref=10-00907-00016-0440-27a74699-7b08-434f-92d0-13ae1fd83550
 https://www.gesobau.de/?immo_ref=10-00907-00018-0596-8c6ed299-cf4f-4460-a5a6-b47e51850c3c
 https://www.gesobau.de/?immo_ref=10-00907-00020-0712-70527cf4-43f6-4831-85d6-c5b1a11871c4
@@ -3478,6 +3480,7 @@ https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immo
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-5562/1/15
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-573/1/8
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-5803/1/9
+https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-5841/4/51
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-5845/1/9
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-585/3/33
 https://www.wbm.de/wohnungen-berlin/angebote/details/?tx_openimmo_immobilie[immobilie]=51-5857/2/36
