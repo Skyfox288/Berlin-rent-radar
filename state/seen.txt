@@ -1405,6 +1405,7 @@ https://www.degewo.de/de/properties/W1500-00985-0015-8122.html
 https://www.degewo.de/de/properties/W1500-00985-0018-8141.html
 https://www.degewo.de/de/properties/W1500-02002-0001-0101.html
 https://www.degewo.de/de/properties/W1500-02004-0016-0101.html
+https://www.degewo.de/de/properties/W1500-02005-0040-0503.html
 https://www.degewo.de/de/properties/W1500-02011-0003-0201.html
 https://www.degewo.de/de/properties/W1500-02011-0141-0302.html
 https://www.degewo.de/de/properties/W1500-02011-0153-0102.html
