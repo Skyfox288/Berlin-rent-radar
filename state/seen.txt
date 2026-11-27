@@ -2072,6 +2072,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00480-0102-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00483-0101-0020
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00560-0101-0002
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00604-0102-0016
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00700-0101-0009
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/1000-00801-0102-0018
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/6025-32592-0101-0031
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/6025-32592-0201-0062
@@ -2104,6 +2105,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70500-0101-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70500-0101-0031
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70500-0101-0051
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70501-0201-0008
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70701-0201-0278
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70701-0401-0091
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70701-0601-0054
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-70701-0702-0193
@@ -2190,6 +2192,7 @@ https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77208-0102-00
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77404-0201-0051
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77413-0101-0004
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77436-0101-0008
+https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77472-0101-0013
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77501-0105-0059
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77538-0101-0012
 https://www.gewobag.de/fuer-mietinteressentinnen/mietangebote/7100-77553-0101-0013
